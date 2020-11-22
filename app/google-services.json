@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995297227343",
+    "firebase_url": "https://mkulima-bora-77b3e.firebaseio.com",
+    "project_id": "mkulima-bora-77b3e",
+    "storage_bucket": "mkulima-bora-77b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995297227343:android:0f4d84b09111020cb6f03a",
+        "android_client_info": {
+          "package_name": "com.example.mkulimabora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995297227343-4krdfkeh5knupq4bc6cogvp1aqdns8mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByZHunalwCejNXyMyr-2-W-CC4rwEO1Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995297227343-4krdfkeh5knupq4bc6cogvp1aqdns8mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
